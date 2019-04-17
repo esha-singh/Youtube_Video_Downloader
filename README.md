@@ -1,4 +1,4 @@
 # Youtube_Video_Downloader
 Download top keyword/video search result. Need to enter just keyword for downloading videos at terminal. Can be used to download songs/videos etc.
 
-PS: Maximum results on search are 20. 
+PS: Maximum results on a search are 20. 
